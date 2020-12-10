@@ -124,10 +124,10 @@ body {
 </div>
 
 <div class="navbar">
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#" class="right">Link</a>
+  <a href="#">home</a>
+  <a href="#">about</a>
+  <a href="#">blog</a>
+  <a href="#" class="right">question</a>
 </div>
 
 <div class="row">
